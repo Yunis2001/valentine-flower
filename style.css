@@ -80,12 +80,13 @@ div:nth-child(5){
   border-radius: 50% 50% 0 50%;
   transform: rotateZ(45deg) skew(23deg,23deg) translate(-75px,-75px);
 }
-/*
+
 div:nth-child(6){
   background: linear-gradient(to bottom left, yellow,deeppink);
   border-radius: 50% 50% 50% 0;
   transform: rotateZ(45deg) skew(-23deg,-23deg) translate(75px,-75px);
 }
+/*
 div:nth-child(7){
   background: linear-gradient(to top right, yellow,deeppink);
   border-radius: 50% 0 50% 50%;
