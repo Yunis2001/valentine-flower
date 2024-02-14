@@ -38,8 +38,8 @@ div{
   width: 150px;
   height:150px;
   border: 2px solid yellow;
-  /* animation: change 6s linear infinite forwards;
-  animation-delay: 1s; */
+  animation: change 6s linear infinite forwards;
+  animation-delay: 1s; 
 
 }
 /*
