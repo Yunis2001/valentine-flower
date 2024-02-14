@@ -6,3 +6,10 @@ It's designed to convey affection and warmth, especially suitable for occasions 
 ## Features
 - Displays a captivating flower image.
 - Provides a visually appealing and romantic presentation.
+
+
+
+## Usage
+1. Clone the repository or download the source code.
+2. Open the `index.html` file in a web browser.
+3. Enjoy the beautiful flower picture. 
