@@ -22,16 +22,16 @@ section{
   animation-delay: 1s; 
 
 }
-/*
+
 @keyframes rotate {
-  0%{
+  /* 0%{
     transform: rotateZ(0deg);
   }
   100%{
     transform: rotateZ(360deg);
-  }
+  } */
 }
-*/
+
 
 div{
   position: absolute;
