@@ -42,15 +42,15 @@ div{
   animation-delay: 1s; 
 
 }
-/*
+
 @keyframes change {
-  0%{
+  /* 0%{
     filter: hue-rotate(0deg);
   }
   100%{
     filter: hue-rotate(360deg);
-  }
-}*/
+  } */
+}
 div:nth-child(1){
   background: linear-gradient(to bottom right ,yellow,deeppink);
   border-radius: 50% 50% 0 50%;
