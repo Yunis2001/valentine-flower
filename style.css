@@ -105,6 +105,5 @@ div:nth-child(9){
   border: 2px solid deeppink;
   border-radius: 50%;
   background: radial-gradient(darkred,deeppink,65%);
-  /*
-  filter: blur(5px); */
+  filter: blur(5px); 
 }
